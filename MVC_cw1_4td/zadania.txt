@@ -1,0 +1,2 @@
+1|sero|false
+2|bocheno|false
